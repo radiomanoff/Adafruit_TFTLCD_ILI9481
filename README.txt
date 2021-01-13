@@ -20,6 +20,5 @@ Place the Adafruit_TFT library folder your <arduinosketchfolder>/libraries/ fold
 
 Also requires the Adafruit_GFX library for Arduino. https://github.com/adafruit/Adafruit-GFX-Library
 
-หมายเหตุ. ไลบารี่นี้ใช้ร่วมกับสินค้า 3.5 inch TFT LCD ILI9481 320x480 for Arduino Uno/Mega 2560 เท่านั้น : https://www.ioxhop.com/p/693
 
-แก้ไข ดัดแปลงให้ใช้งานได้ดียิ่งขึ้นโดยร้านไอโอเอ็กซ์ฮ๊อบ : https://www.ioxhop.com
+
